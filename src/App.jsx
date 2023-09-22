@@ -3,7 +3,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Skills from './components/Skills'
 import Contact from './components/Contact'
-import Last from './Last'
+import Last from './components/Last'
 
 function App() {
   return (

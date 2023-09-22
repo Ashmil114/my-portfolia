@@ -7,11 +7,11 @@ import { SiPhp,SiDjango,SiFlask,SiMysql,SiTailwindcss,SiNumpy,SiPandas,SiScikitl
 const Skills = () => {
   return (
     <div>
-      <div className='h-screen bg-black'>
+      <div className='min-h-screen bg-black'>
         <h1 className='text-[100px] font-[600] invisible lg:visible absolute text-center w-full -mt-6 text-white'>.<span className='text-[#8D8D8D]'>.</span>.</h1>
         {/* <svg className='invisible lg:visible  absolute ml-[17%]' xmlns="http://www.w3.org/2000/svg" width="820" height="132" viewBox="0 0 820 132" fill="none"><path d="M2 0V44H818V272" stroke="#EBFF00" stroke-width="4"/></svg> */}
-        <div className='lg:flex w-full h-screen'>
-            <div className='lg:w-[50%]  lg:h-screen lg:flex lg:justify-center lg:gap-16 lg:flex-col lg:items-center  h-screen lg:relative absolute text-white flex flex-col gap-16  justify-center p-[15px] ml-[40px]'>
+        <div className='lg:flex w-full min-h-screen'>
+            <div className='lg:w-[50%]  lg:h-screen lg:flex lg:justify-center lg:gap-16 lg:flex-col lg:items-center  min-h-screen lg:relative absolute text-white flex flex-col gap-16  justify-center p-[15px] ml-[40px]'>
 
               <div className='lg:flex lg:gap-4 gap-10 lg:justify-normal lg:w-auto w-full justify-around grid grid-cols-3'>
                 <div className='lg:w-[70px] lg:h-[70px] text-center w-[50px] h-[50px]'>
@@ -81,8 +81,8 @@ const Skills = () => {
                 
                 
             </div>
-            <div className='lg:w-[50%]  lg:h-screen lg:flex lg:flex-col lg:items-center lg:justify-center   h-screen ' >
-                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[120px] lg:-bottom-0 lg:relative absolute -bottom-[200%] flex justify-end w-full lg:justify-center pr-6 md:text-[150px]'>02</h1>
+            <div className='lg:w-[50%]  lg:h-screen lg:flex lg:flex-col lg:items-center lg:justify-center   min-h-screen ' >
+                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[100px] lg:-bottom-0 lg:relative absolute -bottom-[200%] flex justify-end w-full lg:justify-center pr-6 md:text-[150px]'>02</h1>
                 <h1 className='lg:text-[40px] lg:-mt-[7rem] text-white flex justify-center lg:justify-normal pt-9 text-[40px] '>SKILLS</h1>
                 {/* <svg className='invisible lg:visible' xmlns="http://www.w3.org/2000/svg" width="4" height="192" viewBox="0 0 4 192" fill="none"><path d="M2 0V192" stroke="#EBFF00" stroke-width="4"/></svg> */}
             </div>
