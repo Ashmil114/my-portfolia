@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div>
       <div className="h-screen bg-black ">
-        <div className='lgbanner h-screen flex-shrink-0 text-white flex flex-col items-center justify-center lg:justify-normal '>
+        <div className='lgbanner h-screen flex-shrink-0 text-white flex flex-col items-center  lg:justify-normal '>
             <h1 className='text-[100px] font-[600] invisible lg:visible -mt-10'>...</h1>
             <h1 className='text-[40px] font-[400] md:text-[80px] lg:text-[100px] md:-ml-[50px]  lg:-ml-[330px]'>HELLO,<span className='text-[#EBFF00]'>I'M</span></h1>
             <h1 className='text-[60px] md:text-[80px] lg:text-[100px] md:-mr-[100px] lg:-mr-[80px]'>ASHMIL K</h1>
