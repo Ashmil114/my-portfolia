@@ -6,7 +6,7 @@ import avar from '../assets/images/Ellipse 1.png'
 const About = () => {
   return (
     <div  >
-        <div className='min-h-screen ' id='about'>
+        <div className='h-fit ' id='about'>
           <h1 className='text-[100px] font-[600] invisible lg:visible absolute text-center w-full -mt-6'><span className='text-[#8D8D8D]'>.</span>..</h1>
           <div className='lg:flex w-full min-h-screen'>
           {/* <svg className='ml-[17.45%]  invisible lg:visible  absolute' xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" fill="none"><path d="M438 0V52H2V280" stroke="#EBFF00" stroke-width="4"/></svg> */}
@@ -28,4 +28,3 @@ const About = () => {
 export default About
 
 
-// absolute -bottom-[100%] lg:bottom-0

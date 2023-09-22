@@ -7,7 +7,7 @@ import { SiPhp,SiDjango,SiFlask,SiMysql,SiTailwindcss,SiNumpy,SiPandas,SiScikitl
 const Skills = () => {
   return (
     <div>
-      <div className='min-h-screen bg-black'>
+      <div className='h-fit bg-black'>
         <h1 className='text-[100px] font-[600] invisible lg:visible absolute text-center w-full -mt-6 text-white'>.<span className='text-[#8D8D8D]'>.</span>.</h1>
         {/* <svg className='invisible lg:visible  absolute ml-[17%]' xmlns="http://www.w3.org/2000/svg" width="820" height="132" viewBox="0 0 820 132" fill="none"><path d="M2 0V44H818V272" stroke="#EBFF00" stroke-width="4"/></svg> */}
         <div className='lg:flex w-full min-h-screen'>

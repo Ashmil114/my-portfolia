@@ -3,7 +3,7 @@ import { BsInstagram,BsLinkedin,BsGithub } from 'react-icons/bs';
 
 const Contact = () => {
   return (
-    <div className='min-h-screen '>
+    <div className='h-fit '>
         <h1 className='text-[100px] font-[600] invisible lg:visible absolute text-center w-full -mt-6'>..<span className='text-[#8D8D8D]'>.</span></h1>
         <div className='lg:flex w-full min-h-screen relative'>
         {/* <svg className='ml-[16%]  invisible lg:visible  absolute' xmlns="http://www.w3.org/2000/svg" width="804" height="134" viewBox="0 0 804 134" fill="none"><path d="M802 0V52H2V284" stroke="#EBFF00" stroke-width="4"/></svg> */}
