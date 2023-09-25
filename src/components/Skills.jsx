@@ -85,7 +85,7 @@ const Skills = () => {
                 
             </div>
             <div className='lg:w-[50%]  lg:h-screen lg:flex lg:flex-col lg:items-center lg:justify-center   min-h-screen relative' >
-                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[100px]  lg:relative absolute bottom-0 flex justify-end w-full lg:justify-center pr-6 md:text-[150px]' data-aos="fade-left" data-aos-duration="1000">02</h1>
+                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[100px]  lg:relative absolute bottom-0 flex justify-end w-full lg:justify-center pr-6 md:text-[150px]' data-aos="fade-up" data-aos-duration="1000">02</h1>
                 <h1 className='lg:text-[40px] lg:-mt-[7rem] text-white flex justify-center lg:justify-normal pt-9 text-[40px]' data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" >SKILLS</h1>
                 {/* <svg className='invisible lg:visible' xmlns="http://www.w3.org/2000/svg" width="4" height="192" viewBox="0 0 4 192" fill="none"><path d="M2 0V192" stroke="#EBFF00" stroke-width="4"/></svg> */}
             </div>

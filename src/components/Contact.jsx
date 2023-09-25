@@ -8,7 +8,7 @@ const Contact = () => {
         <div className='lg:flex w-full min-h-screen relative'>
         {/* <svg className='ml-[16%]  invisible lg:visible  absolute' xmlns="http://www.w3.org/2000/svg" width="804" height="134" viewBox="0 0 804 134" fill="none"><path d="M802 0V52H2V284" stroke="#EBFF00" stroke-width="4"/></svg> */}
             <div className='lg:w-[50%]  lg:h-screen lg:flex lg:justify-center lg:flex-col min-h-screen flex relative'>
-                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[100px] lg:relative  absolute bottom-0 ml-3 md:text-[150px]' data-aos="fade-right" data-aos-duration="1000">03</h1>
+                <h1 className='lg:text-[360px] lg:font-[600]  text-[#EBFF00] lg:ml-[1rem] lg:p-1 text-[100px] lg:relative  absolute bottom-0 ml-3 md:text-[150px]' data-aos="fade-up" data-aos-duration="1000">03</h1>
                 <h1 className='lg:text-[40px] lg:-mt-[7rem] lg:ml-[7rem] text-[40px] w-full lg:relative  flex justify-center lg:justify-normal mt-9 ' data-aos="fade-up" data-aos-duration="1000">CONTACT ME</h1>
                 {/* <svg className='lg:ml-[34%] invisible lg:visible ' xmlns="http://www.w3.org/2000/svg" width="4" height="192" viewBox="0 0 4 192" fill="none"><path d="M2 0V192" stroke="#EBFF00" stroke-width="4"/></svg> */}
             </div>
