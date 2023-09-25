@@ -5,14 +5,17 @@ import Skills from './components/Skills'
 import Contact from './components/Contact'
 import Last from './components/Last'
 
+
 function App() {
   return (
     <div>
+
       <Home/>
       <About/>
       <Skills/>
       <Contact/>
       <Last/>
+
     </div>
   )
 }
