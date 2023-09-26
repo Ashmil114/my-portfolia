@@ -12,8 +12,8 @@ const Home = () => {
   return (
     <div>
       
-      <div className="h-screen bg-black ">
-        <div className='lgbanner h-screen flex-shrink-0 text-white flex flex-col items-center  lg:justify-normal ' data-aos="zoom-in" data-aos-duration="20000"   data-aos-once="false">
+      <div className="h-fit bg-black ">
+        <div className='lgbanner h-screen flex-shrink-0 text-white flex flex-col items-center  lg:justify-normal ' data-aos="zoom-in" data-aos-duration="1000"   data-aos-once="false">
             <h1 className='text-[100px] font-[600] invisible lg:visible -mt-10'>...</h1>
             <h1 className='text-[40px] font-[400] md:text-[80px] lg:text-[100px] md:-ml-[50px]  lg:-ml-[330px]' data-aos="fade-right" data-aos-duration="2000" data-aos-once="false">HELLO,<span className='text-[#EBFF00]'>I'M</span></h1>
             <h1 className='text-[60px] md:text-[80px] lg:text-[100px] md:-mr-[100px] lg:-mr-[80px]' data-aos="fade-left" data-aos-duration="2000" data-aos-once="false">ASHMIL K</h1>
