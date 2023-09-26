@@ -14,8 +14,8 @@ const About = () => {
                   <h1 className='lg:text-[40px] lg:-mt-[7rem] lg:ml-[7rem] text-[40px] w-full lg:relative  flex justify-center lg:justify-normal mt-9 ' data-aos="fade-up" data-aos-duration="1000">ABOUT ME</h1>
               </div>
               <div className='lg:w-[50%]  lg:h-screen lg:flex lg:flex-col lg:items-center lg:justify-center lg:relative absolute -bottom-[75%]   lg:-bottom-0 flex  flex-col w-full  items-center ' data-aos="fade-up" data-aos-duration="2000">
-                  <img src={avar} alt=""  className='lg:w-[314px] lg:h-[283px] lg:m-5 w-[254px] h-[233px] mb-2  p-4 md:w-[284px] md:h-[253px] md:m-[1rem]  '/>
-                  <h1 className='lg:m-5 mt-3 ml-8 mr-8 mb-3 text-justify md:m-[1rem] text-[18px] lg:text-[20px] md:text-[15px]'>I'm a full stack developer with a passion for creating dynamic and responsive web applications . I'm constantly looking for ways to integrate ML algorithms into my projects and improve the user experience .with my skills and experience.</h1>
+                  <img src={avar} alt=""  className='lg:w-[314px] lg:h-[283px] lg:m-5 w-[224px] h-[203px] mb-2 mt-2 p-4 md:w-[284px] md:h-[253px] md:m-[1rem]  '/>
+                  <h1 className='lg:m-5 mt-3 ml-8 mr-8 mb-3 text-justify md:m-[1rem] text-[15px] lg:text-[20px] md:text-[15px]'>I'm a full stack developer with a passion for creating dynamic and responsive web applications . I'm constantly looking for ways to integrate ML algorithms into my projects and improve the user experience .with my skills and experience.</h1>
               </div>
           </div>
         </div>
